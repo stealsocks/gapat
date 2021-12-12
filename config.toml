@@ -1,0 +1,7 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'gapat.eth'
+
+
+[params]
+footerText = "Munchkining uber alles."
